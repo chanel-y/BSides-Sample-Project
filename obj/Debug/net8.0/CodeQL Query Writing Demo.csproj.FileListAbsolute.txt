@@ -1,0 +1,110 @@
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\CodeQL Query Writing Demo.exe
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\CodeQL Query Writing Demo.deps.json
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\CodeQL Query Writing Demo.runtimeconfig.json
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\CodeQL Query Writing Demo.pdb
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\CodeQL Query Writing Demo.csproj.AssemblyReference.cache
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\CodeQL Query Writing Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\CodeQL Query Writing Demo.AssemblyInfoInputs.cache
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\CodeQL Query Writing Demo.AssemblyInfo.cs
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\CodeQL Query Writing Demo.csproj.CoreCompileInputs.cache
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\CodeQL Query Writing Demo.sourcelink.json
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\CodeQL Query Writing Demo.csproj.CopyComplete
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\refint\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\CodeQL Query Writing Demo.pdb
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\CodeQL Query Writing Demo.genruntimeconfig.cache
+C:\codeql_home\sample_projects\codeql_querywriting_demo\obj\Debug\net8.0\ref\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\CodeQL Query Writing Demo.exe
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\CodeQL Query Writing Demo.deps.json
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\CodeQL Query Writing Demo.runtimeconfig.json
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\CodeQL Query Writing Demo.pdb
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\Microsoft.Web.UI.WebControls.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\CodeQL Query Writing Demo.csproj.AssemblyReference.cache
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\CodeQL Query Writing Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\CodeQL Query Writing Demo.AssemblyInfoInputs.cache
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\CodeQL Query Writing Demo.AssemblyInfo.cs
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\CodeQL Query Writing Demo.csproj.CoreCompileInputs.cache
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\CodeQL Query Writing Demo.sourcelink.json
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\CodeQL Q.FC53EA1A.Up2Date
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\refint\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\CodeQL Query Writing Demo.pdb
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\CodeQL Query Writing Demo.genruntimeconfig.cache
+C:\codeql_home\sample_projects\codeql_querywriting_demo - Copy\obj\Debug\net8.0\ref\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\CodeQL Query Writing Demo.exe
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\CodeQL Query Writing Demo.deps.json
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\CodeQL Query Writing Demo.runtimeconfig.json
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\CodeQL Query Writing Demo.pdb
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Web.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Http.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Abstractions.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Http.Features.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.AspNetCore.WebUtilities.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.Extensions.ObjectPool.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.JSInterop.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.Net.Http.Headers.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\System.Data.SqlClient.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\System.IO.Pipelines.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\Microsoft.Web.UI.WebControls.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\runtimes\win-arm64\native\sni.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\runtimes\win-x64\native\sni.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\runtimes\win-x86\native\sni.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\bin\Debug\net8.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\CodeQL Query Writing Demo.csproj.AssemblyReference.cache
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\CodeQL Query Writing Demo.GeneratedMSBuildEditorConfig.editorconfig
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\CodeQL Query Writing Demo.AssemblyInfoInputs.cache
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\CodeQL Query Writing Demo.AssemblyInfo.cs
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\CodeQL Query Writing Demo.csproj.CoreCompileInputs.cache
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\CodeQL Query Writing Demo.sourcelink.json
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\CodeQL Q.FC53EA1A.Up2Date
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\refint\CodeQL Query Writing Demo.dll
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\CodeQL Query Writing Demo.pdb
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\CodeQL Query Writing Demo.genruntimeconfig.cache
+C:\codeql_home\sample_projects\BSides-Sample-Project\obj\Debug\net8.0\ref\CodeQL Query Writing Demo.dll
