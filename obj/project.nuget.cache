@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "qDB1qLg7iBjIBUFK+i/3VGHBqbUsTgmOHIje3lhbjBX2iFy8iWORqL8JRnt6Xl2zjGHPMfPbfdLNKw02lXwK0A==",
+  "dgSpecHash": "qf+31ei2V++n+sP6CP48lyPCm05DbAOh8Ru8lNxm9O7WK/K6U5AkTAfxClZYCI7DQoMvz3kDFUsO9VqRMuKsSA==",
   "success": true,
   "projectFilePath": "C:\\codeql_home\\sample_projects\\BSides-Sample-Project\\CodeQL Query Writing Demo.csproj",
   "expectedPackageFiles": [

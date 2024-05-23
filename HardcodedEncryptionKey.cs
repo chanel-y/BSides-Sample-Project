@@ -7,6 +7,7 @@ using System.Security.Cryptography;
 
 namespace CodeQL_Query_Writing_Demo
 {
+	//TODO: Don't hardcode encryption keys
 	class HardcodedEncryptionKey
 	{
 		public void Case1()

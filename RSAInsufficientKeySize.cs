@@ -9,6 +9,7 @@ namespace CodeQL_Query_Writing_Demo
 {
 	class RSAInsufficientKeySize
 	{
+		//TODO: this file creates weak keys, update keysize to be >2048
 		public RSA CreateWeakKey1()
 		{
 			int weakKeySize = 1024; 

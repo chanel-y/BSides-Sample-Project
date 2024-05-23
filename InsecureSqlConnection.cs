@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace CodeQL_Query_Writing_Demo
 {
+	//TODO: set encrypt to true when creating a SQL Connection!
 	class InsecureSqlConnection
 	{
 		public void Case1()
@@ -22,10 +23,8 @@ namespace CodeQL_Query_Writing_Demo
 		}
 		public void Case3()
 		{
-			string connectionString = "Server=(local);Database=AdventureWorks;UID=ab;Pwd= a!Pass@@";
-			SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(connectionString);
-			builder.Encrypt = false; 
-
+			string connectionString = "Server=(local);Database=AdventureWorks;UID=ab;Pwd= a!Pass@@;";
+			SqlConnectionStringBuilder builder = new SqlConnectionStringBuilder(connectionString) { Encrypt = true};
 		}
 	}
 }

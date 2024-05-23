@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Http;
 
 namespace CodeQL_Query_Writing_Demo
 {
+	//TODO: Switch to a safe deserializer
 	class BinaryFormatterDeserialize
 	{
 		public object DoDeserialize(byte[] bytes)
