@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CodeQL Query Writing Demo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5fa871e3705f11326a086c2c2bc0d44a43ac0e65")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+810627dd60afd0c09a03e393fc7f63a07d9e7b63")]
 [assembly: System.Reflection.AssemblyProductAttribute("CodeQL Query Writing Demo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CodeQL Query Writing Demo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
